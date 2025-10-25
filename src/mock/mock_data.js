@@ -479,9 +479,14 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1761360022473",
+      "icon": "🌐",
+      "name": "VPS购买",
+      "order": 0,
+      "sites": []
     }
   ],
-  "title": "LIKE导航",
-  "_fileSha": "b758f26547daa73b73269f16dce80f690a996efe",
-  "search": "google"
+  "title": "LIKE导航"
 }
