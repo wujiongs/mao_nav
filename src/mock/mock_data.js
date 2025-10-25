@@ -484,7 +484,7 @@ export const mockData = {
       "id": "category-1761360022473",
       "icon": "🌐",
       "name": "VPS购买",
-      "order": 0,
+      "order": 10,
       "sites": []
     }
   ],
