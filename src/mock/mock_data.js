@@ -485,7 +485,82 @@ export const mockData = {
       "icon": "🌐",
       "name": "VPS购买",
       "order": 10,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1761360196696",
+          "name": "Racknerd",
+          "url": "https://my.racknerd.com/aff.php?aff=15208",
+          "description": ""
+        },
+        {
+          "id": "site-1761360300760",
+          "name": "Hostdzire",
+          "url": "https://hostdzire.com/billing/clientarea.php",
+          "description": ""
+        },
+        {
+          "id": "site-1761360386440",
+          "name": "Hosteons",
+          "url": "https://my.hosteons.com/aff.php?aff=2422",
+          "description": ""
+        },
+        {
+          "id": "site-1761360460664",
+          "name": "Akile",
+          "url": "https://akile.io/register?aff_code=87c3c639-08d8-489b-a4ec-bfc47cc62a36",
+          "description": ""
+        },
+        {
+          "id": "site-1761360573321",
+          "name": "Nube",
+          "url": "https://nube.sh/invite/7394620509GZPJ",
+          "description": ""
+        },
+        {
+          "id": "site-1761360632752",
+          "name": "Rarecloud",
+          "url": "https://rarecloud.io/clients/aff.php?aff=751",
+          "description": ""
+        },
+        {
+          "id": "site-1761360679856",
+          "name": "Cloudcat",
+          "url": "https://www.cloudcat.one/index.php",
+          "description": ""
+        },
+        {
+          "id": "site-1761360721952",
+          "name": "Vmrack",
+          "url": "https://www.vmrack.net?ref_code=5aL4nShv1g3",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1761360774279",
+          "name": "Zouter",
+          "url": "https://console.zouter.io/",
+          "description": ""
+        },
+        {
+          "id": "site-1761360878680",
+          "name": "Claw.cloud",
+          "url": "https://claw.cloud/clientarea.php",
+          "description": ""
+        },
+        {
+          "id": "site-1761361006512",
+          "name": "Zorocloud",
+          "url": "https://my.zorocloud.com/aff.php?aff=772",
+          "description": ""
+        },
+        {
+          "id": "site-1761361022160",
+          "name": "ionos",
+          "url": "https://cloudpanel.ionos.com/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "LIKE导航"
